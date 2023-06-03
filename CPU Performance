@@ -27,4 +27,7 @@ int main() {
     }
   }
 
-  printf("\
+  printf("\nThe processor with the lowest execution time is: %f\n", max);
+
+  return 0;
+}
